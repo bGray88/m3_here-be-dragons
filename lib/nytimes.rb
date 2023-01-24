@@ -1,4 +1,4 @@
-require 'awesome_print'
+require './lib/nytimes'
 
 class Nytimes
   DATA = {
