@@ -1,5 +1,3 @@
-require './lib/nytimes'
-
 class Nytimes
   DATA = {
   "status": "OK",
